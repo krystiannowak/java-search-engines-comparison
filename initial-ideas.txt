@@ -1,0 +1,15 @@
+Scope:
+
+Solr(Cloud?) - http://en.wikipedia.org/wiki/Solr
+Elasticsearch - http://en.wikipedia.org/wiki/Elasticsearch
+FAST - http://en.wikipedia.org/wiki/Fast_Search_%26_Transfer
+
+
+Ideas:
+
+- feature comparison
+- Java API comparison (client lib?)
+- REST APIs?
+- cloud-readiness comparison
+- main purpose of each one (specific project target?)
+- gotchas
